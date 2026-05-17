@@ -26,3 +26,8 @@ index ad7fd6e..6bc9715 100644
 +primeira mudança
 \ No newline at end of file
 
+PS C:\Users\Aqua\Documents\Atividades GitHub\meu-projeto> git log --oneline
+f63a561 (HEAD -> main, origin/main) segunda mudança
+dd1b0cb primeira mudança
+5e2defb add/git-ignore
+374e911 Initial commit
